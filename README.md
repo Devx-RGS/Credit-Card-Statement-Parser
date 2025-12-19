@@ -36,6 +36,12 @@ The application automatically extracts the following information:
 - **Lucide React** Modern icon set
 - **Fetch API**	HTTP communication
 
+<img width="1919" height="875" alt="Screenshot 2025-12-19 125132" src="https://github.com/user-attachments/assets/7c28ccbc-2c03-4394-952d-fa535be4818c" />
+
+<img width="1218" height="860" alt="Screenshot 2025-12-19 125205" src="https://github.com/user-attachments/assets/1df0e40c-13a4-4c57-bbb3-350b7e068ed7" />
+
+<img width="1242" height="561" alt="Screenshot 2025-12-19 125215" src="https://github.com/user-attachments/assets/94661595-9877-451c-9d98-c6a173bd21dd" />
+
 ## Application Workflow
 
 1. User uploads a credit card statement PDF
